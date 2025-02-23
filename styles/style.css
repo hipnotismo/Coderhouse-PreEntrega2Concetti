@@ -19,6 +19,14 @@
     color: #6e0a4d;
 }
 
+.navbar a{
+    font-family: 'Arial Narrow' !important;
+}
+
+.bg-nav-propio {
+    background:  #6e0a4d;
+}
+
 .standar-style{
     font-family: sans-serif;
     font-size: 20px;
